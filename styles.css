@@ -213,7 +213,7 @@ input:checked ~ .menu-content {
     }
     .page2-right-content{
         width: 400px;
-        height: 200px;
+        height: auto;
     }
     .page2-right-content h{
         font-size: 30px;
